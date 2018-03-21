@@ -6,6 +6,7 @@
 
 void addMaterialsOnList(Controller* ctrl)
 {
+	printf("adding items");
 	ExpDate date1, date2, date3, date4, date5, date6, date7, date8, date9, date10;
 
 	date1.day = 12;
