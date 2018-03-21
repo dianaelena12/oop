@@ -1,0 +1,38 @@
+﻿  UI.c
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(69): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(122): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(131): warning C4133: 'function': incompatible types - from 'MaterialRepo *' to 'UndoRepo *'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(148): warning C4133: 'function': incompatible types - from 'MaterialRepo *' to 'UndoRepo *'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(165): warning C4133: 'function': incompatible types - from 'MaterialRepo *' to 'UndoRepo *'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(185): warning C4133: 'function': incompatible types - from 'MaterialRepo *' to 'UndoRepo *'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(158): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(177): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(100): warning C4101: 'supplier': unreferenced local variable
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(278): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(335): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(448): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(452): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(454): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(456): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\diana\desktop\lab3-4dynamic\lab3-4\ui.c(525): warning C4133: 'function': incompatible types - from 'UndoRepo *' to 'MaterialRepo *'
+  Lab3-4.vcxproj -> C:\Users\Diana\Desktop\Lab3-4dynamic\Debug\Lab3-4.exe
+  Lab3-4.vcxproj -> C:\Users\Diana\Desktop\Lab3-4dynamic\Debug\Lab3-4.pdb (Partial PDB)
